@@ -1,0 +1,25 @@
+h1{
+	border-bottom: 1px solid lightgray;
+	color: gray;
+	text-align: center;
+}
+.container{
+	padding: 5px;
+	/*margin: 0 50%;*/
+	text-align: center;
+	border: 1px solid black;
+	/*margin-top: 50%;*/
+}
+.carCompany{
+	list-style: none;
+}
+.carCompany li{
+	font-size: 24px;
+	font-style: oblique;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.carCompany li:first-child{
+	color: blue;
+	font-weight: bold;
+}
