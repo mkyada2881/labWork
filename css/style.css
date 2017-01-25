@@ -5,10 +5,8 @@ h1{
 }
 .container{
 	padding: 5px;
-	/*margin: 0 50%;*/
 	text-align: center;
 	border: 1px solid black;
-	/*margin-top: 50%;*/
 }
 .carCompany{
 	list-style: none;
